@@ -1,0 +1,1 @@
+mvn install:install-file -Dfile=target/com.sap.apibhub.sdk.api_business_partner-1.0.0.jar -DgroupId=com.sap.apibhub -DartifactId=com.sap.apibhub.sdk.api_business_partner -Dversion=1.0.0 -Dpackaging=jar
